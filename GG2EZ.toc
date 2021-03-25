@@ -1,0 +1,7 @@
+## Interface: 80200
+## Title: GG2EZ
+## Notes: Novelty addon to add gg2ez from Overwatch into WoW
+## Author: Lucas Shanley
+## Version: 1.0
+
+main.lua
